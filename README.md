@@ -7,7 +7,7 @@
 <h2>Welcome 👋 , I'm Ricardo Paz.</h2>
 
 <p>
-  I'm a software developer based in Brazil BR, specializing in building exceptional websites and mobile applications, and everything in between.
+  I'm a software developer based in Recife/PE BR, specializing in building exceptional websites and mobile applications, and everything in between.
 </p>
 
 <h3>🛠 &nbsp;Tech Stack</h3>
